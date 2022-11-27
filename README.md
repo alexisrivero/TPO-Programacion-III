@@ -35,7 +35,7 @@ Rivero Alexis,
 Dominguez Alan Thomas
 
 
-<a href="https://github.com/OWNER/REPO/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=OWNER/REPO" />
+<a href="https://github.com/alexisrivero/TPO-Programacion-III/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=alexisrivero/TPO-Programacion-III" />
 </a>
 
