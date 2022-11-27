@@ -39,3 +39,10 @@ Dominguez Alan Thomas
   <img src="https://contrib.rocks/image?repo=alexisrivero/TPO-Programacion-III" />
 </a>
 
+<a href="https://github.com/brisaelorzx/TPO-Programacion-III/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=brisaelorzx/TPO-Programacion-III" />
+</a>
+
+<a href="https://github.com/AlanTrisciuzzi/TPO-Programacion-III/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AlanTrisciuzzi/TPO-Programacion-III" />
+</a>
