@@ -33,4 +33,3 @@ Integrantes:
 Elorz Brisa,  
 Rivero Alexis,  
 Dominguez Alan Thomas
-
